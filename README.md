@@ -6,7 +6,7 @@
 ## main.ipynb
 
 ```python 
->  from my_encryption import Encrypted as En
+>  from my_encryption import Encrypted
 
 >  target_data = int(input("input data : "))
 input data : 100
