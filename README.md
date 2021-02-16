@@ -3,6 +3,10 @@
 
 *****
 
+![다운로드](https://user-images.githubusercontent.com/71556009/108016055-fa125000-7054-11eb-919f-ced9c5bd1a40.png)
+
+* * *
+
 ## main.ipynb
 
 ```python 
@@ -20,5 +24,3 @@ input data : 100
 100
 ```
 *****
-
-![다운로드](https://user-images.githubusercontent.com/71556009/108016055-fa125000-7054-11eb-919f-ced9c5bd1a40.png)
